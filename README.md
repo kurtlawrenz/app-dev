@@ -1,12 +1,6 @@
 # app-dev
 My first repository
 
-{
-  "firstName": "Kurt",
-  "lastName": "Villanueva",
-  "age": 21
-}
-
 ## My Favorite Movie 
 **Movie Name:** Dark Knight Rises
 ---
