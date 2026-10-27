@@ -2,6 +2,7 @@
 My first repository
 
 ## My Favorite Movie 
+---
 **Movie Name:** Dark Knight Rises
 ---
 **Genre:** Action
